@@ -1,4 +1,12 @@
 #Alash CNC Machine Software
+
+![new_interface1](https://github.com/i10Beksultan/AlashCNC/assets/70829332/432bafcb-4319-4fb8-b35a-38a7b1b5c5a8)
+![new_interface2](https://github.com/i10Beksultan/AlashCNC/assets/70829332/ac936794-e7c5-4d3d-b38b-a08626320455)
+![new_interface3](https://github.com/i10Beksultan/AlashCNC/assets/70829332/d8ab5db6-6659-4eac-bab9-f14c4407cd74)
+![new_interface4](https://github.com/i10Beksultan/AlashCNC/assets/70829332/6c5a6e70-8090-41ca-b475-cc96d08fb278)
+
+
+
 Overview
 Welcome to the Alash CNC Machine Software repository. This software was developed as part of a diploma project to control and manage a CNC (Computer Numerical Control) machine. The primary goal of this project is to provide a robust, efficient, and user-friendly solution for CNC machine operation, allowing users to perform precise and automated manufacturing tasks.
 
