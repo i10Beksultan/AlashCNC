@@ -16,25 +16,33 @@ Software:
 Python 3.x
 Necessary libraries: [list any required Python libraries here]
 Installation
+
 Clone the repository to your local machine:
 sh
 Копировать код
 git clone https://github.com/i10Beksultan/AlashCNC.git
+
 Navigate to the project directory:
 sh
 Копировать код
 cd AlashCNC
+
 Install the required dependencies:
 sh
 Копировать код
+
 pip install -r requirements.txt
+
 Usage
 Connect your CNC machine to the computer.
 Run the main application:
+
 sh
 Копировать код
+
 python main.py
 Use the graphical interface to load your G-code file and start the machining process.
+
 Documentation
 Comprehensive documentation is available in the docs directory. It includes detailed instructions on setup, configuration, usage, and troubleshooting.
 
